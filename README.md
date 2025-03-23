@@ -6,5 +6,5 @@
 ![Screenshot (6)](https://github.com/user-attachments/assets/49aaaae2-d1f0-4234-a56e-3f33069317ce)
 # Dashboard
 ![Screenshot (7)](https://github.com/user-attachments/assets/fd5b73bc-85ad-47df-bc9a-afdde2142331)
-# Profilee
+# Profile
 ![Screenshot (8)](https://github.com/user-attachments/assets/592174a7-51c7-44ea-bff6-f3e79067557c)
