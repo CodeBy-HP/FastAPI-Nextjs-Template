@@ -1,4 +1,4 @@
-# Dashboard
+# Home
 ![Screenshot (4)](https://github.com/user-attachments/assets/35174f68-db74-4c5e-81f6-bd0c8f817eb2)
 # about/features
 ![Screenshot (5)](https://github.com/user-attachments/assets/f006be57-4968-4174-a16c-5206e2a6777e)
