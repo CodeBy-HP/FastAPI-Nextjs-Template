@@ -1,7 +1,7 @@
 # database.py
 from sqlalchemy import create_engine, MetaData
 from sqlalchemy.orm import sessionmaker
-from .models import Base
+from models import Base
 
 DATABASE_URL = "sqlite:///./test.db"  # You can use any database here
 
